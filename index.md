@@ -2,36 +2,12 @@
 
 This is a virtual reality game displaying the process and effects of bioplastics! It incorporates some fun game elements to the education part, and is open-source. You can get the source code by going to the GitHub repo [here](https://github.com/ahonor25/BioplasticsVR), which lets you change the game, and modify anything you want.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This game is currently being developed for the Oculus Go, Oculus Quest, and Oculus Quest 2. Do we not have your device? Fill out this form, and if there's a lot of users who are also using your headset, I will start developing it for you. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### One more thing...
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+print("Enjoy the game! Download it below")
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahonor25/BioplasticsVR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Thx
