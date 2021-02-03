@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to BioplasticsVR
 
-You can use the [editor on GitHub](https://github.com/ahonor25/BioplasticsVR/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a virtual reality game displaying the process and effects of bioplastics! It incorporates some fun game elements to the education part, and is open-source. You can get the source code by going to the GitHub repo [here](https://github.com/ahonor25/BioplasticsVR), which lets you change the game, and modify anything you want.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
