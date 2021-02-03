@@ -10,4 +10,6 @@ This game is currently being developed for the Oculus Go, Oculus Quest, and Ocul
 print("Enjoy the game! Download it below")
 ```
 
-## Thx
+### Download the game!
+
+Download links are coming soon, I am still developing some test models, incorporating hands and controllers, and more. 
